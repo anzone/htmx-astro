@@ -31,3 +31,6 @@ Special thanks to [midudev](https://www.youtube.com/@midulive) for the crash cou
 
 - [ ] We have the loader running in the /demo/01 if we are coming through any other route
 - [ ] A CRUD
+  
+## Mejorando el README
+- Una simple mejora
